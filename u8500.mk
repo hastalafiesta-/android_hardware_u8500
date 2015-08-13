@@ -9,7 +9,8 @@ PRODUCT_PACKAGES += \
    gralloc.montblanc \
    hwcomposer.montblanc \
    copybit.montblanc \
-   libblt_hw
+   libblt_hw \
+   power.montblanc
 
 # STE Media
 PRODUCT_PACKAGES += \
